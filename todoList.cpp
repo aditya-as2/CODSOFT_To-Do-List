@@ -83,7 +83,7 @@ m:
 void ToDoList :: add(){
     fstream data;
     int c;
-    string stat="Incomplete";
+    string stat="Pending";
     string n;
     string d;
     string s;
